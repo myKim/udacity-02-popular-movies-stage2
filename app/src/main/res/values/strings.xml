@@ -1,0 +1,45 @@
+<resources>
+    <!-- Application -->
+    <string name="app_name">Popular Movies</string>
+
+    <!-- MainActivity -->
+    <string name="menu_refresh">REFRESH</string>
+    <string name="menu_sort">Sort</string>
+    <string name="menu_sort_popular">by most popular</string>
+    <string name="menu_sort_top_rate">by highest rated</string>
+    <string name="menu_favorites">Favorites</string>
+    <string name="menu_license_notice">OSS Notice</string>
+    <string name="image_description_poster">Poster</string>
+    <string name="error_load_fail">
+        An error has occurred. Please try again by clicking REFRESH.
+    </string>
+
+    <!-- MovieDetailActivity -->
+    <string name="movie_detail_synopsis">Synopsis</string>
+    <string name="movie_detail_release_date">Release Date</string>
+    <string name="movie_detail_vote_average">Rating</string>
+    <string name="movie_detail_max_rating">/10</string>
+    <string name="movie_detail_trailer">Trailers</string>
+    <string name="movie_detail_review">Reviews</string>
+    <string name="movie_detail_cast">Cast <![CDATA[&]]> Crew</string>
+    <string name="image_description_profile">Profile</string>
+    <string name="review_by">A review by </string>
+    <string name="review_not_found">No reviews found.</string>
+    <string name="cast_not_found">No cast found.</string>
+    <string name="video_not_found">No videos found.</string>
+
+    <!-- LicenseActivity -->
+    <string name="license_title">Open Source Software Notice</string>
+    <string name="license_glide_title">* Glide</string>
+    <string name="license_glide_github">https://github.com/bumptech/glide</string>
+    <string name="license_glide_license">https://github.com/bumptech/glide/blob/master/LICENSE</string>
+    <string name="license_retrofit_title">* Retrofit</string>
+    <string name="license_retrofit_github">https://github.com/square/retrofit/</string>
+    <string name="license_retrofit_license">https://square.github.io/retrofit/</string>
+    <string name="license_gson_title">* Gson</string>
+    <string name="license_gson_github">https://github.com/google/gson/</string>
+    <string name="license_butterknife_title">* ButterKnife</string>
+    <string name="license_butterknife_github">https://github.com/JakeWharton/butterknife/</string>
+    <string name="license_butterknife_license">http://jakewharton.github.io/butterknife/</string>
+
+</resources>

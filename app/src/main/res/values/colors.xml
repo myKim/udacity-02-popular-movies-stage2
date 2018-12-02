@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1976D2</color>
+    <color name="colorPrimaryDark">#115293</color>
+    <color name="colorPrimaryLight">#4791DB</color>
+    <color name="colorAccent">#149EE6</color>
+
+    <color name="colorBackground">#ECECEC</color>
+
+    <color name="colorFavorite">#F46292</color>
+    <color name="colorText">#788282</color>
+    <color name="colorPlayIcon">#EAEAEA</color>
+
+    <color name="colorFilterBackDrop">#BDBDBD</color>
+</resources>
