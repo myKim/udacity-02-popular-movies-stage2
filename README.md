@@ -7,27 +7,22 @@ This is an app to allow users to discover the most popular movies playing.
 
 in gradle.properties
 
-    /**************************************************************************
-    * API Key (https://www.themoviedb.org/)
-    * Insert your TMDb API Key here.
-    **************************************************************************/
-
-    # TheMovieDB API key
+    # TheMovieDB API key (https://www.themoviedb.org/)
     API_KEY="Insert your API key"
 
 
 ## OSS Notice
 **\* Glide**    
-Github : https://github.com/bumptech/glide/
+Github : https://github.com/bumptech/glide/  
 License : https://github.com/bumptech/glide/blob/master/LICENSE/
 
 **\* Retrofit**    
-Github : https://github.com/square/retrofit/
+Github : https://github.com/square/retrofit/  
 License : https://square.github.io/retrofit/
 
 **\* Gson**    
 Github : https://github.com/google/gson/
 
 **\* ButterKnife**    
-Github : https://github.com/JakeWharton/butterknife/
+Github : https://github.com/JakeWharton/butterknife/  
 License : http://jakewharton.github.io/butterknife/
